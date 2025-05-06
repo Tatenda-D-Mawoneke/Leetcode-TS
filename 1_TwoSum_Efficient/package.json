@@ -1,0 +1,19 @@
+{
+  "name": "twosum_efficient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tsc && mocha dist/tests"
+  },
+  "author": "Tatenda-D-Mawoneke",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/chai": "^5.2.1",
+    "@types/mocha": "^10.0.10",
+    "chai": "^5.2.0",
+    "mocha": "^11.2.2",
+    "typescript": "^5.8.3"
+  }
+}
