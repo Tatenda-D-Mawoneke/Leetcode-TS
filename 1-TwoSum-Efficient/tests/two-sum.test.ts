@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import twoSum from '../src/twosum.js';
+import twoSum from '../src/two-sum.js';
 
 /*
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
